@@ -1,0 +1,29 @@
+{
+  "name": "ebac-node-pokedex",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon  ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naiconmartins/ebac-node-pokedex.git"
+  },
+  "author": "Naicon de Souza Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naiconmartins/ebac-node-pokedex/issues"
+  },
+  "homepage": "https://github.com/naiconmartins/ebac-node-pokedex#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
