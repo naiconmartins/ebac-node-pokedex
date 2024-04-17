@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/naiconmartins/ebac-node-pokedex#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "express-ejs-layouts": "^2.5.1",
